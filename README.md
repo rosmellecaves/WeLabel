@@ -48,17 +48,18 @@ Technical Assesment for Brandify
 11. Click the PHPMyAdmin and this will open the database server
 
 To try accesing the database used in this code login using 
+
 **username: admin**
 **password: 1234**
 
-Contributing
+## Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-License
+## License
 Information about the project's licensing should be specified here. For example:
 This project is licensed under the MIT License. See LICENSE for more information.
 
-Contact
+## Contact
 For any feedback, queries, or concerns, please contact:
 
 Rosario Imelda Cuevas: rosarioimelda.cuevas@gmail.com

@@ -50,6 +50,7 @@ Technical Assesment for Brandify
 To try accesing the database used in this code login using 
 
 **username: admin**
+
 **password: 1234**
 
 ## Contributing

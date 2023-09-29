@@ -1,0 +1,33 @@
+body{
+    background-color: #FFF5EB !important;
+    background-image: url(/assets/vector2.svg); 
+    background-size: no-repeat;
+    overflow: auto;
+}
+
+.navbar{
+    background-color: #DAC0A3;
+    font-family: 'Inter', sans-serif;
+    color: #F8F0E5;
+}
+
+.logout{
+    text-decoration: none;
+    color: #F8F0E5;
+    cursor: pointer;
+    font-size: medium;
+}
+
+
+.title{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    font-family: 'Poppins', sans-serif;
+    color: #1B427D;
+}
+
+a.typewrite{
+    font-size: 6rem;
+    text-decoration: none;
+    color: #1B427D;
+}

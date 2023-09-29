@@ -22,7 +22,7 @@ Technical Assesment for Brandify
 2. **Dynamic Animations**: Engaging animations using AOS (Animate on Scroll) for content to pop as users scroll.
 3. **Join Us Button**: Directs users to a form, presumably to be a part of the "We Label!" community.
 4. **Onboarding Forms**: Allowas users/clients fill up the necessary information for their aspired projects.
-5. **Users Registration*: 
+5. **Users Registration**: Clients/users can register and login for security and privacy of their projects
 
 ## Technologies Used
 
